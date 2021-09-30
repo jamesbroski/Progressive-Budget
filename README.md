@@ -23,7 +23,7 @@ This project is licensed under the MIT license.
 
 ## Technologies
 
-HTML, CSS, BOOTSWATCH, NodeJS, Heroku, Github, Workbench, MySQL2, Handlebars, Cloudinary, JawsDb and ExpressJs.
+HTML, CSS, JS, Mongoose, Morgan, NodeJS, Heroku, Github, MongoDB, ExpressJs.
 
 ## Tests
 
