@@ -18,8 +18,11 @@ This project is licensed under the MIT license.
 
 ## Description
 
+The user will be able to add expenses and deposits to a Budget Tracker with online/offline functionality
 
 ## User Instructions
+
+User is able to interact with the budget tracker to add and subtract funds, and see the remaining balance they have left. Both offline and online functionality is present
 
 ## Technologies
 
@@ -30,8 +33,6 @@ HTML, CSS, JS, Mongoose, Morgan, NodeJS, Heroku, Github, MongoDB, ExpressJs.
 No tests needed for this application
 
 ## Usage
-User is able to interact with the budget tracker to add and subtract funds, and see the remaining balance they have left
-
 Deployed Link:
 https://whispering-caverns-28880.herokuapp.com/
 
