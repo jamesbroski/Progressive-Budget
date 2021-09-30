@@ -29,6 +29,9 @@ HTML, CSS, BOOTSWATCH, NodeJS, Heroku, Github, Workbench, MySQL2, Handlebars, Cl
 
 
 ## Usage
+User is able to interact with the budget tracker to add and subtract funds, and see the remaining balance they have left
+Deployed Link:
+https://whispering-caverns-28880.herokuapp.com/
 
 ## Contribution
 
